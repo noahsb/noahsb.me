@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Noah Burroughs
 ---
 
-# Welcome to Hollywoo
+# Noah Burroughs
 
-Hello. I am BoJack. Horseman, obviously
+Hi! I'm Noah - software engineer [@OpenLoopHealth](https://www.openloophealth.com) and CS graduate from the University of Iowa! Feel free to explore my personal projects, blog posts, and more!
